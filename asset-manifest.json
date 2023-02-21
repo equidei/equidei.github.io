@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c4073d3.css",
-    "main.js": "/static/js/main.aade5014.js",
+    "main.css": "/static/css/main.8f11a4b0.css",
+    "main.js": "/static/js/main.83b75437.js",
+    "static/media/teamMap.png": "/static/media/teamMap.3c2346424cb39fe161f0.png",
     "static/media/learn1.svg": "/static/media/learn1.e5207919192a4746835cd88c9c47c85c.svg",
     "static/media/girl.png": "/static/media/girl.6f3c2587347df3a1d6eb.png",
     "static/media/Additional.png": "/static/media/Additional.b966eb74c0f95ce6c57c.png",
     "static/media/Financing.png": "/static/media/Financing.6d2b6e1c7bfb95820f67.png",
-    "static/media/team.png": "/static/media/team.c829b944996b6676fafe.png",
     "static/media/Secure.png": "/static/media/Secure.f0a9e054af5922362c34.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/Aboutus2.png": "/static/media/Aboutus2.fd9274da8e073f900919.png",
@@ -46,11 +46,11 @@
     "static/media/arrow.svg": "/static/media/arrow.d50138f4b02c7863385b41d7fe3c97cd.svg",
     "static/media/less.svg": "/static/media/less.e2e04007ffe5747d161021e5323acae2.svg",
     "static/media/more.svg": "/static/media/more.3883962ceb59fb1c35b86e60064a2bf9.svg",
-    "main.5c4073d3.css.map": "/static/css/main.5c4073d3.css.map",
-    "main.aade5014.js.map": "/static/js/main.aade5014.js.map"
+    "main.8f11a4b0.css.map": "/static/css/main.8f11a4b0.css.map",
+    "main.83b75437.js.map": "/static/js/main.83b75437.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c4073d3.css",
-    "static/js/main.aade5014.js"
+    "static/css/main.8f11a4b0.css",
+    "static/js/main.83b75437.js"
   ]
 }
